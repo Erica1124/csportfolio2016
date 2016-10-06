@@ -1,0 +1,10 @@
+.picture3{
+     /*position: fixed;*/
+     /*top: 150px;*/
+     /*right:960px;*/
+}
+
+.container>* {
+     display: inline-block;
+     vertical-align: top;
+}

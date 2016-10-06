@@ -1,18 +1,30 @@
-#navbar{
- text-align: center;
- background-color: black ;
- position: fixed;
- top: 0px;
- left: 100px;
+#navbar {
+    text-align: center;
+    background-color: black;
+    position: fixed;
+    top: 20px;
+    left: 100px;
 }
+
 #navbar li {
     display: inline-block;
     border: 0px solid black;
-    padding-top:100px ;
-    padding-bottom: 100px;
-    padding: 45px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding: 40px;
     background-color: black;
 }
+
 #navbar a {
     color: white
+}
+
+.picture {
+    position: fixed;
+    top: 150px;
+    right: 300px;
+}
+
+body {
+    padding-top: 200px;
 }
