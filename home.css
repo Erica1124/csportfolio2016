@@ -8,3 +8,15 @@
      display: inline-block;
      vertical-align: top;
 }
+.carousel_slide{
+     display: inline-block;
+     vertical-align: top;
+}
+.carousel-indicators{
+     display: inline-block;
+     vertical-align: top;
+}
+.carousel-inner{
+     display: inline-block;
+     vertical-align: top;
+}
